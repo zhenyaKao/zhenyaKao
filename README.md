@@ -1,4 +1,6 @@
-## Project List 
+<img src="profile_banner.jpg">
+
+## 💻 Project List 
 
 ### [漢堡點餐系統](https://zhenyakao.github.io/biggerking/)
 - Source Code: 
@@ -10,7 +12,7 @@
   - [Front End](https://github.com/zhenyaKao/fifawc)
   
   
-## Skills
+## 🛠 Skills
 
 ### Front End
 1. 與後端Api串接 (Ajax, Axios)
@@ -38,3 +40,8 @@
 3. Webpack打包專案
 4. Linux及Vim編輯器基本指令
 5. Docker 開發環境建立
+
+##
+
+### [CodePen](https://codepen.io/zhenyakao)
+
