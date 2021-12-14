@@ -4,12 +4,21 @@
 
 ## 💻 Project List 
 
+
 ### [漢堡點餐系統](https://zhenyakao.github.io/biggerking/)
+
+<img src="biggerKing.png" width="50%">
+
 - Source Code: 
   - [Front End](https://github.com/zhenyaKao/biggerking)
   - [Back End](https://github.com/zhenyaKao/biggerking_api)
 
+---
+
 ### [俄羅斯足球指南](https://zhenyakao.github.io/fifawc)
+
+<img src="fifawc.png" width="50%">
+
 - Source Code: 
   - [Front End](https://github.com/zhenyaKao/fifawc)
   
