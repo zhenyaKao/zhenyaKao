@@ -4,6 +4,15 @@
 
 ## 💻 Project List 
 
+### 手勢操控系統
+
+<img src="https://github.com/zhenyaKao/gesturehome/blob/main/structure.png" width="50%">
+
+- Source Code: 
+  - [Web](https://github.com/zhenyaKao/gesturehome/tree/main/web)
+  - [Linux](https://github.com/zhenyaKao/gesturehome/tree/main/linux)
+
+---
 
 ### [漢堡點餐系統](https://zhenyakao.github.io/biggerking/)
 
